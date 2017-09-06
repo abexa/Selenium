@@ -1,0 +1,15 @@
+selenium\CreateTemplateBaseband.class
+selenium\CreateTemplateEubaDisconnect.class
+selenium\CreateTemplateLdbs.class
+selenium\CrateTemplateFds.class
+selenium\CrateTemplateHsns.class
+selenium\CreateTemplateBbipDisconnect.class
+selenium\ConnectToDatabase.class
+selenium\CreateTemplateBuba.class
+selenium\CreateTemplateBroadband.class
+selenium\Main.class
+selenium\CrateTemplateBbipConnect.class
+selenium\CreateTemplateLocale.class
+selenium\DataSetTemplate.class
+selenium\ExecuteELTAndSoma.class
+selenium\CreateTemplateEubaConnect.class
