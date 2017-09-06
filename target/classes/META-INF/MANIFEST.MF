@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: doncioiu
+Built-By: abexa
 Class-Path: lib/jsch-0.1.54.jar lib/ojdbc-14.jar lib/commons-lang-2.2.
  jar lib/winium-elements-desktop-0.1.0-1.jar lib/selenium-java-2.47.1.
  jar lib/selenium-chrome-driver-2.47.1.jar lib/selenium-remote-driver-
@@ -20,7 +20,7 @@ Class-Path: lib/jsch-0.1.54.jar lib/ojdbc-14.jar lib/commons-lang-2.2.
  7.1.jar lib/selenium-support-2.47.1.jar lib/webbit-0.4.14.jar lib/net
  ty-3.5.2.Final.jar lib/selenium-leg-rc-2.47.1.jar lib/winium-webdrive
  r-0.1.0-1.jar
-Build-Jdk: 1.8.0_144
+Build-Jdk: 1.8.0_102
 Created-By: Maven Integration for Eclipse
 Main-Class: selenium.Main
 

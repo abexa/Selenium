@@ -1,4 +1,5 @@
 selenium\CreateTemplateBaseband.class
+selenium\ChooseMethods.class
 selenium\CreateTemplateEubaDisconnect.class
 selenium\CreateTemplateLdbs.class
 selenium\CrateTemplateFds.class
